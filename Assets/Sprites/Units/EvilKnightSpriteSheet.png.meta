@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: d1aabfab7327795468dd3a11baf3c02c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7693513020717391830
+    second: EvilKnightSpriteSheet_0
+  - first:
+      213: 4678009271149775795
+    second: EvilKnightSpriteSheet_1
+  - first:
+      213: -4570256924497124381
+    second: EvilKnightSpriteSheet_2
+  - first:
+      213: -6751437992836325960
+    second: EvilKnightSpriteSheet_3
+  - first:
+      213: -6842678006882262863
+    second: EvilKnightSpriteSheet_4
+  - first:
+      213: 2505051030226338398
+    second: EvilKnightSpriteSheet_5
+  - first:
+      213: -8972504748231916259
+    second: EvilKnightSpriteSheet_6
+  - first:
+      213: -3200362777393205184
+    second: EvilKnightSpriteSheet_7
+  - first:
+      213: -5441035403053340987
+    second: EvilKnightSpriteSheet_8
+  - first:
+      213: -4139398979193115829
+    second: EvilKnightSpriteSheet_9
+  - first:
+      213: -2417449185670896149
+    second: EvilKnightSpriteSheet_10
+  - first:
+      213: 7766322901237338274
+    second: EvilKnightSpriteSheet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 853
+        width: 661
+        height: 613
+      alignment: 9
+      pivot: {x: 0.58891696, y: 0.08223925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202c4d6ba62b3590800000000000000
+      internalID: -7693513020717391830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 711
+        width: 452
+        height: 692
+      alignment: 9
+      pivot: {x: 0.04489055, y: 0.14206506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbcdde95a0abe040800000000000000
+      internalID: 4678009271149775795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 384
+        width: 395
+        height: 344
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.14608614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3641b9a8f2390c0800000000000000
+      internalID: -4570256924497124381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 109
+        width: 48
+        height: 97
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.90007555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b64955f86ed86c0800000000000000
+      internalID: -4139398979193115829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 125
+        width: 44
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.944601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5678916ce737ed0800000000000000
+      internalID: -2417449185670896149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilKnightSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 126
+        width: 230
+        height: 373
+      alignment: 9
+      pivot: {x: 0.79202855, y: 0.4799921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09b3be78587cb60800000000000000
+      internalID: 7766322901237338274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
